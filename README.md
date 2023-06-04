@@ -40,6 +40,7 @@ Upon successful completion of this course, the student will be able to:
 ## Additional Materials:
 
 * [Simple Flask Todo REST example](https://github.com/msoe-dise-project/flask-todo-example)
+* [Spark example](https://github.com/msoe-dise-project/spark-examples)
 
 ## Licensing
 
